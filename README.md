@@ -1,4 +1,4 @@
-# Projects-portfolio
+# Coding Portfolio
 Examples of coding projects:
 
 There are five coding projects in this portfolio. Phenotype-defined EHR Drug Query is one of many SQL based data extraction projects I performed while working with the Center for Precision Medicine. Much of the project is covered by HIPPA confidentiality. Therefore, even though the identities are protected by safeguards, out of respect for the sensitive nature of the data all person id information has been hidden. In short, a profile of prescription history was extracted based on client-defined phenotypes.  
