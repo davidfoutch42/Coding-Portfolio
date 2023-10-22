@@ -1,0 +1,13 @@
+Column names,Description
+Record:,Identifies the record type 'ATOM'
+Count:,The serial number for each atom in the amino acid (AA) sequence
+Atom id:,Atom identifier
+Amino Acid:,Three letter AA code
+Chain:,Identifier for a linear polymer terminated by an amine and carboxyl group
+Position:,Residue sequence number
+x-coord:,The X coordinate measured in Ångstroms
+y-coord:,The Y coordinate measured in Ångstroms
+z-coord:,The Z coordinate measured in Ångstroms
+Occupancy:,1.0
+B-factor:,Temperature (thermal shift)
+Atom:,Single letter atom code
